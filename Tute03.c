@@ -16,7 +16,7 @@ int main() {
   
   int n,sum = 0,i;
 
-  printf("enter a number : ");
+  printf("enter a number: ");
   scanf("%d",&n);
 
   for(i = 1;i <= n;i++)

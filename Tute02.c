@@ -22,7 +22,7 @@ int main() {
     int distance;
   float Amount;
 
-  printf("Enter distance : ");
+  printf("Enter distance: ");
   scanf("%d",&distance);
 
  if (distance <= 30 )

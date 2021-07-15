@@ -22,7 +22,7 @@ int main() {
     int distance;
   float Amount;
 
-  printf("Enter the distance : ");
+  printf("Enter distance : ");
   scanf("%d",&distance);
 
  if (distance <= 30 )
@@ -35,7 +35,7 @@ int main() {
    Amount = 30 * 50.0 + (distance - 30) * 40.0;
 
  }
- printf("total amount to be paid: %.2f",Amount);
+ printf("total amount : %.2f",Amount);
  
   
   return 0;
